@@ -20,7 +20,7 @@ The **Call Quality Analyzer** processes YAML conversation files to detect:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/call-quality-analyzer.git
+git clone https://github.com/ParthNBarai/Prodigal.git
 cd call-quality-analyzer
 ```
 
