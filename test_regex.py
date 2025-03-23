@@ -1,4 +1,4 @@
-from regex_analyzer import detect_profanity
+from analyzers.regex_analyzer import detect_profanity
 
 # Sample conversation data
 sample_yaml = [

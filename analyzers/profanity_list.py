@@ -8,5 +8,5 @@ PROFANE_WORDS = [
     "goddamn", "bloody hell", "freaking", "fricking", "dammit",
     "piece of shit", "fucked up", "suck my", "kiss my ass", "jerk",
     "dickwad", "scumbag", "numbnut", "cockhead", "twatface",
-    "arsehole", "motherless", "shitface", "bastardized", "piss off"
+    "arsehole", "motherless", "shitface", "bastardized", "piss off", "ass"
 ]
